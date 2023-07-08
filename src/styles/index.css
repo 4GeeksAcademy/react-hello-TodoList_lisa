@@ -10,3 +10,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.card{
+    margin:auto;
+}
+
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: initial;
+    font-weight: 500;
+}
+
+.mark{
+    background-color: transparent;
+}
